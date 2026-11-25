@@ -25,8 +25,7 @@ I'm building practical cybersecurity skills through hands-on labs, security moni
 - Suricata IDS Lab
 
 ### 📜 Training & Certifications
-- Google Cybersecurity Certificate – [erify this certificate at:
-https://coursera.org/verify/professio
+- Google Cybersecurity Certificate – [https://coursera.org/verify/professio
 nal-cert/KOI79KRAQXAU]
 -Code of Professional Conduct in — ISC2
 (Completed November 23, 2026; completion
