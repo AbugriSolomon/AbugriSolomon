@@ -25,7 +25,7 @@ Aspiring cybersecurity professional with knowledge in security operations, netwo
 - Suricata IDS Lab
 
 ### 📜 Training & Certifications
-- Google Cybersecurity Certificate – [https://coursera.org/verify/professional-cert/KOI79KRAQXAU]
+- Google Cybersecurity Certificate – [https://coursera.org/verify/professional-cert/KOI79KRAQXAU].
 -Code of Professional Conduct in — ISC2(Completed November 23, 2026; completion validation) Practice
 - CompTIA Security+ – [Update status]
 
