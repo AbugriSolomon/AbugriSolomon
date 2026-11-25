@@ -2,7 +2,7 @@
 
 ## Cybersecurity Analyst | SOC Analyst in Training
 
-I'm building practical cybersecurity skills through hands-on labs, security monitoring, log analysis, and network security investigations.
+Aspiring cybersecurity professional with knowledge in security operations, network security, threat detection and incident response. Completed the Google Cybersecurity Certificate and is actively developing practical skills in securitymonitoring, log analysis, network traffic analysis and SIEM tools. Motivated tolearn, collaborate and contribute to a cybersecurity team.
 
 ### 🎯 About Me
 - 🔐 Interested in Security Operations (SOC) and Cybersecurity
@@ -26,7 +26,7 @@ I'm building practical cybersecurity skills through hands-on labs, security moni
 
 ### 📜 Training & Certifications
 - Google Cybersecurity Certificate – [https://coursera.org/verify/professional-cert/KOI79KRAQXAU]
--Code of Professional Conduct in — ISC2(Completed November 23, 2026; completionvalidation)Practice
+-Code of Professional Conduct in — ISC2(Completed November 23, 2026; completion validation) Practice
 - CompTIA Security+ – [Update status]
 
 ### 📫 Connect With Me
